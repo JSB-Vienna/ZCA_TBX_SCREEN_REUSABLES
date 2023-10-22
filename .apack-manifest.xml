@@ -3,22 +3,22 @@
  <asx:values>
   <DATA>
    <GROUP_ID>itinere.at</GROUP_ID>
-   <ARTIFACT_ID>zca_tbx_screen_reusables</ARTIFACT_ID>
-   <VERSION>0.1.0</VERSION>
+   <ARTIFACT_ID>zcl_ca_scr_reusable_apm</ARTIFACT_ID>
+   <VERSION>1.0.0</VERSION>
    <REPOSITORY_TYPE>abapGit</REPOSITORY_TYPE>
    <GIT_URL>https://github.com/JSB-Vienna/zca_tbx_screen_reusables.git</GIT_URL>
    <DEPENDENCIES>
     <item>
      <GROUP_ID>itinere.at</GROUP_ID>
-     <ARTIFACT_ID>zca_tbx_base</ARTIFACT_ID>
-     <VERSION>0.1.0</VERSION>
-     <GIT_URL>https://github.com/JSB-Vienna/zca_tbx_base.git</GIT_URL>
-     <TARGET_PACKAGE>zca_tbx_base</TARGET_PACKAGE>
+     <ARTIFACT_ID>zca_toolbox</ARTIFACT_ID>
+     <VERSION>1.0.0</VERSION>
+     <GIT_URL>https://github.com/JSB-Vienna/zca_toolbox.git</GIT_URL>
+     <TARGET_PACKAGE>zca_toolbox</TARGET_PACKAGE>
     </item>
     <item>
      <GROUP_ID>itinere.at</GROUP_ID>
      <ARTIFACT_ID>zca_tbx_screen_framework</ARTIFACT_ID>
-     <VERSION>0.1.0</VERSION>
+     <VERSION>1.0.0</VERSION>
      <GIT_URL>https://github.com/JSB-Vienna/zca_tbx_screen_framework.git</GIT_URL>
      <TARGET_PACKAGE>zca_tbx_screen_framework</TARGET_PACKAGE>
     </item>
