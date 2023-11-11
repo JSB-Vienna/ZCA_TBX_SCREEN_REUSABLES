@@ -520,7 +520,7 @@
       <PROGRAM>SAPLZCA_SCR_REUSABLE</PROGRAM>
       <SCREEN>0100</SCREEN>
       <LANGUAGE>E</LANGUAGE>
-      <DESCRIPT>Screen only with custom cont. with line for appl. toolbar</DESCRIPT>
+      <DESCRIPT>CA-TBX: Screen only custom cont. with line for appl. toolbar</DESCRIPT>
       <TYPE>N</TYPE>
       <NEXTSCREEN>0100</NEXTSCREEN>
       <LINES>090</LINES>
@@ -622,7 +622,7 @@
       <PROGRAM>SAPLZCA_SCR_REUSABLE</PROGRAM>
       <SCREEN>0101</SCREEN>
       <LANGUAGE>E</LANGUAGE>
-      <DESCRIPT>Screen only with custom cont. w/o line for appl. toolbar</DESCRIPT>
+      <DESCRIPT>CA-TBX: Screen only custom cont. w/o line for appl. toolbar</DESCRIPT>
       <TYPE>N</TYPE>
       <NEXTSCREEN>0101</NEXTSCREEN>
       <LINES>090</LINES>
@@ -724,7 +724,7 @@
       <PROGRAM>SAPLZCA_SCR_REUSABLE</PROGRAM>
       <SCREEN>0120</SCREEN>
       <LANGUAGE>E</LANGUAGE>
-      <DESCRIPT>Popup only with custom container with application toolbar</DESCRIPT>
+      <DESCRIPT>CA-TBX: Popup only a custom container with appl. toolbar</DESCRIPT>
       <TYPE>M</TYPE>
       <NEXTSCREEN>0120</NEXTSCREEN>
       <LINES>050</LINES>
@@ -825,7 +825,7 @@
       <PROGRAM>SAPLZCA_SCR_REUSABLE</PROGRAM>
       <SCREEN>0121</SCREEN>
       <LANGUAGE>E</LANGUAGE>
-      <DESCRIPT>Popup only with custom container w/o application toolbar</DESCRIPT>
+      <DESCRIPT>CA-TBX: Popup only a custom container w/o appl. toolbar</DESCRIPT>
       <TYPE>M</TYPE>
       <NEXTSCREEN>0121</NEXTSCREEN>
       <LINES>050</LINES>
