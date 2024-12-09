@@ -4,17 +4,33 @@
   <asx:values>
    <VSEOINTERF>
     <CLSNAME>ZIF_CA_SCR_REUSABLE</CLSNAME>
-    <LANGU>E</LANGU>
+    <LANGU>D</LANGU>
     <DESCRIPT>CA-TBX: Common elements of reusable screens</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>
     <STATE>1</STATE>
     <UNICODE>X</UNICODE>
    </VSEOINTERF>
+   <DESCRIPTIONS_INTERFACE>
+    <SEOCLASSTX>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CA-TBX: Common elements of reusable screens</DESCRIPT>
+    </SEOCLASSTX>
+   </DESCRIPTIONS_INTERFACE>
    <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PFSTATUS_POPUP</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Default GUI status for the popup</DESCRIPT>
+    </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>C_PFSTATUS_POPUP</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>Default GUI status for the popup</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PFSTATUS_SCREEN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Default GUI status for the screen/window</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>C_PFSTATUS_SCREEN</CMPNAME>
@@ -23,8 +39,18 @@
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>C_PROG_NAME_SCREENS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Program name to reusable screens, status and titlebar</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PROG_NAME_SCREENS</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>Program name to reusable screens, status and titlebar</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_SCR_FNAME_CCONT</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Name of custom container in reusable screens</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>C_SCR_FNAME_CCONT</CMPNAME>
@@ -33,8 +59,18 @@
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>C_TITLEBAR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Default program name</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_TITLEBAR</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>Default program name</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MO_CCONT_REUSE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Main Custom Container at screen</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>MO_CCONT_REUSE</CMPNAME>

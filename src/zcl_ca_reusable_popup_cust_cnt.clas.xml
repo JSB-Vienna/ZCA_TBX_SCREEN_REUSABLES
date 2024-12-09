@@ -4,14 +4,25 @@
   <asx:values>
    <VSEOCLASS>
     <CLSNAME>ZCL_CA_REUSABLE_POPUP_CUST_CNT</CLSNAME>
-    <LANGU>E</LANGU>
+    <LANGU>D</LANGU>
     <DESCRIPT>CA-TBX: Reusable popup with custom container</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
     <UNICODE>X</UNICODE>
    </VSEOCLASS>
+   <DESCRIPTIONS_CLASS>
+    <SEOCLASSTX>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CA-TBX: Reusable popup with custom container</DESCRIPT>
+    </SEOCLASSTX>
+   </DESCRIPTIONS_CLASS>
    <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>CONSTRUCTOR</CMPNAME>
      <LANGU>E</LANGU>
@@ -22,8 +33,20 @@
     <SEOSUBCOTX>
      <CMPNAME>CONSTRUCTOR</CMPNAME>
      <SCONAME>IS_POPUP_CORNERS</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Definition of the popup corner points</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <SCONAME>IS_POPUP_CORNERS</SCONAME>
      <LANGU>E</LANGU>
      <DESCRIPT>Definition of the popup corner points</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <SCONAME>IV_MODE</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Screen mode (use ZCL_CA_C_SCR_FW=&gt;MMODE_*)</DESCRIPT>
     </SEOSUBCOTX>
     <SEOSUBCOTX>
      <CMPNAME>CONSTRUCTOR</CMPNAME>
@@ -34,14 +57,26 @@
     <SEOSUBCOTX>
      <CMPNAME>CONSTRUCTOR</CMPNAME>
      <SCONAME>IV_TOOLBAR</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>X = With appl. toolbar; &apos; &apos; = Hide appl. toolbar</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <SCONAME>IV_TOOLBAR</SCONAME>
      <LANGU>E</LANGU>
      <DESCRIPT>X = With appl. toolbar; &apos; &apos; = Hide appl. toolbar</DESCRIPT>
     </SEOSUBCOTX>
     <SEOSUBCOTX>
      <CMPNAME>CONSTRUCTOR</CMPNAME>
      <SCONAME>ZCX_CA_PARAM</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>CA-TBX exception: Parameter error (INHERIT from this excep!)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <SCONAME>ZCX_CA_PARAM</SCONAME>
      <LANGU>E</LANGU>
-     <DESCRIPT>Common exception: Parameter error (INHERIT from this excep!)</DESCRIPT>
+     <DESCRIPT>CA-TBX exception: Parameter error (INHERIT from this excep!)</DESCRIPT>
     </SEOSUBCOTX>
    </DESCRIPTIONS_SUB>
   </asx:values>

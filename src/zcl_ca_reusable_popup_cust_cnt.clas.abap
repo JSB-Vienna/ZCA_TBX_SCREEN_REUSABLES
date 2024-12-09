@@ -21,7 +21,7 @@ CLASS zcl_ca_reusable_popup_cust_cnt DEFINITION PUBLIC
       "! @parameter iv_mode          | <p class="shorttext synchronized" lang="en">Screen mode (use ZCL_CA_C_SCR_FW=>MMODE_*)</p>
       "! @parameter iv_toolbar       | <p class="shorttext synchronized" lang="en">X = With appl. toolbar; ' ' = Hide appl. toolbar</p>
       "! @parameter is_popup_corners | <p class="shorttext synchronized" lang="en">Definition of the popup corner points</p>
-      "! @raising   zcx_ca_param     | <p class="shorttext synchronized" lang="en">Common exception: Parameter error (INHERIT from this excep!)</p>
+      "! @raising   zcx_ca_param     | <p class="shorttext synchronized" lang="en">CA-TBX exception: Parameter error (INHERIT from this excep!)</p>
       constructor
         IMPORTING
           iv_mode          TYPE syst_ucomm DEFAULT zcl_ca_c_scr_fw=>mode-display
