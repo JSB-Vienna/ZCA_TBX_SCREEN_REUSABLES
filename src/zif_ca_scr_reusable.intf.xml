@@ -4,7 +4,7 @@
   <asx:values>
    <VSEOINTERF>
     <CLSNAME>ZIF_CA_SCR_REUSABLE</CLSNAME>
-    <LANGU>D</LANGU>
+    <LANGU>E</LANGU>
     <DESCRIPT>CA-TBX: Common elements of reusable screens</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>
     <STATE>1</STATE>
@@ -12,7 +12,7 @@
    </VSEOINTERF>
    <DESCRIPTIONS_INTERFACE>
     <SEOCLASSTX>
-     <LANGU>E</LANGU>
+     <LANGU>D</LANGU>
      <DESCRIPT>CA-TBX: Common elements of reusable screens</DESCRIPT>
     </SEOCLASSTX>
    </DESCRIPTIONS_INTERFACE>

@@ -4,7 +4,7 @@
   <asx:values>
    <VSEOCLASS>
     <CLSNAME>ZCL_CA_REUSABLE_DIA_CUST_CNT</CLSNAME>
-    <LANGU>D</LANGU>
+    <LANGU>E</LANGU>
     <DESCRIPT>CA-TBX: Reusable screen with custom container</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
@@ -15,18 +15,18 @@
     <item>
      <ID>I</ID>
      <KEY>MOB</KEY>
-     <ENTRY>Liste</ENTRY>
+     <ENTRY>List</ENTRY>
      <LENGTH>14</LENGTH>
     </item>
    </TPOOL>
    <I18N_TPOOL>
     <item>
-     <LANGUAGE>E</LANGUAGE>
+     <LANGUAGE>D</LANGUAGE>
      <TEXTPOOL>
       <item>
        <ID>I</ID>
        <KEY>MOB</KEY>
-       <ENTRY>List</ENTRY>
+       <ENTRY>Liste</ENTRY>
        <LENGTH>14</LENGTH>
       </item>
      </TEXTPOOL>
@@ -34,7 +34,7 @@
    </I18N_TPOOL>
    <DESCRIPTIONS_CLASS>
     <SEOCLASSTX>
-     <LANGU>E</LANGU>
+     <LANGU>D</LANGU>
      <DESCRIPT>CA-TBX: Reusable screen with custom container</DESCRIPT>
     </SEOCLASSTX>
    </DESCRIPTIONS_CLASS>
